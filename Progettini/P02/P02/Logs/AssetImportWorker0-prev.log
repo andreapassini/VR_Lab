@@ -1,0 +1,146 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22621.1413; Version 2009; 64bit' Language: 'it' Physical Memory: 7103 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Programmi\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/ANDREA/UNI/MAGISTRALE/ANNO 2/II Semestre/REALTA' VIRTUALE/VR_Lab/VR_Lab/Progettini/P02/P02
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60412
+Successfully changed project path to: D:/ANDREA/UNI/MAGISTRALE/ANNO 2/II Semestre/REALTA' VIRTUALE/VR_Lab/VR_Lab/Progettini/P02/P02
+D:/ANDREA/UNI/MAGISTRALE/ANNO 2/II Semestre/REALTA' VIRTUALE/VR_Lab/VR_Lab/Progettini/P02/P02
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path D:/Programmi/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/ANDREA/UNI/MAGISTRALE/ANNO 2/II Semestre/REALTA' VIRTUALE/VR_Lab/VR_Lab/Progettini/P02/P02/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     3551 MB
+    Driver:   31.0.14033.1012
+Initialize mono
+Mono path[0] = 'D:/Programmi/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Programmi/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Programmi/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Programmi/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001904 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 32.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.999 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001517 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.116 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.6 MB.
+System memory in use after: 57.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1556.
+Total: 3.132100 ms (FindLiveObjects: 0.218500 ms CreateObjectMapping: 0.061500 ms MarkObjects: 2.734200 ms  DeleteObjects: 0.115400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Textures
+  artifactKey: Guid(dcd22783bb4d56f4ea55850285ef58f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(dcd22783bb4d56f4ea55850285ef58f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc7699b3584c53018838f3ea8b1f129') in 0.007945 seconds
+  Import took 0.010883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/Materials/T_35_Normal.tga
+  artifactKey: Guid(47559ced24a29b9428ba59951a3b02bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/T_35_Normal.tga using Guid(47559ced24a29b9428ba59951a3b02bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0fbbf68a2017d02fa38a70812b045f9') in 0.124866 seconds
+  Import took 0.128092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.549289 seconds.
+  path: Assets/Materials/T_37_Specular.tga
+  artifactKey: Guid(0182e461824e4f54798ad0a99fdd7f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/T_37_Specular.tga using Guid(0182e461824e4f54798ad0a99fdd7f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb00e5b26e9848f99d064057d4c8b638') in 0.013268 seconds
+  Import took 0.016099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.379394 seconds.
+  path: Assets/YughuesFreeMetalMaterials
+  artifactKey: Guid(f075da8eac95dc7478466a269788a6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YughuesFreeMetalMaterials using Guid(f075da8eac95dc7478466a269788a6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4f8556481eac5baf14002cd7d6a279') in 0.004914 seconds
+  Import took 0.008352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.247412 seconds.
+  path: Assets/Models
+  artifactKey: Guid(291a75bea15097744b04084d3d91b251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(291a75bea15097744b04084d3d91b251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ed5830398c7896cee84ec9647d54b94') in 0.005935 seconds
+  Import took 0.008617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.421707 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(f0b1102ff55b8b4448d5b7e441ef1ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(f0b1102ff55b8b4448d5b7e441ef1ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af07490fc40a5cecf98e2014ca4d5a9d') in 0.004472 seconds
+  Import took 0.007541 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007282 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.930 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1567 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.9 MB.
+System memory in use after: 75.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2007.
+Total: 2.669200 ms (FindLiveObjects: 0.241300 ms CreateObjectMapping: 0.055700 ms MarkObjects: 2.279200 ms  DeleteObjects: 0.090500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
