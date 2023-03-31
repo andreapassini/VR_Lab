@@ -15,11 +15,11 @@ D:/ANDREA/UNI/MAGISTRALE/ANNO 2/II Semestre/REALTA' VIRTUALE/VR_Lab/VR_Lab/Proge
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60412
+61182
 Successfully changed project path to: D:/ANDREA/UNI/MAGISTRALE/ANNO 2/II Semestre/REALTA' VIRTUALE/VR_Lab/VR_Lab/Progettini/P02/P02
 D:/ANDREA/UNI/MAGISTRALE/ANNO 2/II Semestre/REALTA' VIRTUALE/VR_Lab/VR_Lab/Progettini/P02/P02
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 30.35 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 60.83 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path D:/Programmi/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
@@ -35,112 +35,144 @@ Initialize mono
 Mono path[0] = 'D:/Programmi/Editor/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Programmi/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Programmi/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56280
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Programmi/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001904 seconds.
+Registered in 0.001611 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 32.24 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 49.15 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.999 seconds
+- Completed reload, in  2.388 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001517 seconds.
+Registered in 0.011819 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 52.25 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.116 seconds
+- Completed reload, in  1.492 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.6 MB.
-System memory in use after: 57.7 MB.
+Unloading 2255 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.5 MB.
+System memory in use after: 106.4 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1556.
-Total: 3.132100 ms (FindLiveObjects: 0.218500 ms CreateObjectMapping: 0.061500 ms MarkObjects: 2.734200 ms  DeleteObjects: 0.115400 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Textures
-  artifactKey: Guid(dcd22783bb4d56f4ea55850285ef58f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Textures using Guid(dcd22783bb4d56f4ea55850285ef58f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc7699b3584c53018838f3ea8b1f129') in 0.007945 seconds
-  Import took 0.010883 seconds .
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2690.
+Total: 3.539500 ms (FindLiveObjects: 0.373400 ms CreateObjectMapping: 0.092300 ms MarkObjects: 2.951700 ms  DeleteObjects: 0.119900 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000565 seconds.
-  path: Assets/Materials/T_35_Normal.tga
-  artifactKey: Guid(47559ced24a29b9428ba59951a3b02bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/T_35_Normal.tga using Guid(47559ced24a29b9428ba59951a3b02bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0fbbf68a2017d02fa38a70812b045f9') in 0.124866 seconds
-  Import took 0.128092 seconds .
+  path: Assets/XRI/Settings/XRInteractionEditorSettings.asset
+  artifactKey: Guid(3fadf65d5da358c42ae8231f7184833b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XRI/Settings/XRInteractionEditorSettings.asset using Guid(3fadf65d5da358c42ae8231f7184833b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d456a9da9fd8952911a093c7c204434') in 0.053634 seconds
+  Import took 0.058049 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.549289 seconds.
-  path: Assets/Materials/T_37_Specular.tga
-  artifactKey: Guid(0182e461824e4f54798ad0a99fdd7f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/T_37_Specular.tga using Guid(0182e461824e4f54798ad0a99fdd7f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb00e5b26e9848f99d064057d4c8b638') in 0.013268 seconds
-  Import took 0.016099 seconds .
+  Time since last request: 0.000415 seconds.
+  path: Assets/XRI/Settings/Resources/XRDeviceSimulatorSettings.asset
+  artifactKey: Guid(f0b67697b40b98d41b291d76698e8611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XRI/Settings/Resources/XRDeviceSimulatorSettings.asset using Guid(f0b67697b40b98d41b291d76698e8611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56d1d4dbd64da73df96996c2fa20f2f') in 0.006400 seconds
+  Import took 0.011426 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.379394 seconds.
-  path: Assets/YughuesFreeMetalMaterials
-  artifactKey: Guid(f075da8eac95dc7478466a269788a6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/YughuesFreeMetalMaterials using Guid(f075da8eac95dc7478466a269788a6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4f8556481eac5baf14002cd7d6a279') in 0.004914 seconds
-  Import took 0.008352 seconds .
+  Time since last request: 0.000386 seconds.
+  path: Assets/XRI/Settings/Resources/InteractionLayerSettings.asset
+  artifactKey: Guid(f0c57c2ce9173204187ac020d8086d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XRI/Settings/Resources/InteractionLayerSettings.asset using Guid(f0c57c2ce9173204187ac020d8086d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44302a6183d77a57ee3fc479135159cd') in 0.005403 seconds
+  Import took 0.010372 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 159.247412 seconds.
-  path: Assets/Models
-  artifactKey: Guid(291a75bea15097744b04084d3d91b251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models using Guid(291a75bea15097744b04084d3d91b251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ed5830398c7896cee84ec9647d54b94') in 0.005935 seconds
-  Import took 0.008617 seconds .
+  Time since last request: 0.000569 seconds.
+  path: Assets/XRI
+  artifactKey: Guid(6d9ff50d45fdc144c8926ae847754572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XRI using Guid(6d9ff50d45fdc144c8926ae847754572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a1ada1316098525dc79cfd5fe4068a') in 0.004924 seconds
+  Import took 0.010837 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 49.421707 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(f0b1102ff55b8b4448d5b7e441ef1ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(f0b1102ff55b8b4448d5b7e441ef1ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af07490fc40a5cecf98e2014ca4d5a9d') in 0.004472 seconds
-  Import took 0.007541 seconds .
+  Time since last request: 0.000747 seconds.
+  path: Assets/XRI/Settings
+  artifactKey: Guid(c6e5b88fee3197c488b3c0b6f911d9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XRI/Settings using Guid(c6e5b88fee3197c488b3c0b6f911d9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055a9b5d79d0472532c7593e8feda95c') in 0.005289 seconds
+  Import took 0.011293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.519270 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets
+  artifactKey: Guid(849c45f604d93c94d946f39e455a246d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets using Guid(849c45f604d93c94d946f39e455a246d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06dbc025ba532c2136ae03887db10c8b') in 0.007504 seconds
+  Import took 0.014382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.319663 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/2.3.0/XR Device Simulator
+  artifactKey: Guid(039857615f7b23d4db5c8829972fe441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.3.0/XR Device Simulator using Guid(039857615f7b23d4db5c8829972fe441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '223114aaec3fab3ab79412dca3435822') in 0.004817 seconds
+  Import took 0.014361 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.007282 seconds.
+Registered in 0.013187 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.59 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 0.81 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.930 seconds
+- Completed reload, in  1.368 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.53 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 0.62 ms, found 5 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1567 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 74.9 MB.
-System memory in use after: 75.0 MB.
+Unloading 2252 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.3 MB.
+System memory in use after: 106.4 MB.
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2007.
-Total: 2.669200 ms (FindLiveObjects: 0.241300 ms CreateObjectMapping: 0.055700 ms MarkObjects: 2.279200 ms  DeleteObjects: 0.090500 ms)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2701.
+Total: 3.694500 ms (FindLiveObjects: 0.415200 ms CreateObjectMapping: 0.108200 ms MarkObjects: 3.083400 ms  DeleteObjects: 0.085800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.552291 seconds.
+  path: Assets/Samples
+  artifactKey: Guid(0045a6fcfe8a1d345a6daf24555b8d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples using Guid(0045a6fcfe8a1d345a6daf24555b8d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '447c259db6773a773cc590878cd5507c') in 0.010788 seconds
+  Import took 0.016245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 482.954865 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/2.3.0/XR Device Simulator/XR Device Simulator.prefab
+  artifactKey: Guid(18ddb545287c546e19cc77dc9fbb2189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.3.0/XR Device Simulator/XR Device Simulator.prefab using Guid(18ddb545287c546e19cc77dc9fbb2189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ea152d708beb64de7556b042de19b4') in 0.114452 seconds
+  Import took 0.122503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003975 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/2.3.0/XR Device Simulator/XR Device Simulator.prefab
+  artifactKey: Guid(18ddb545287c546e19cc77dc9fbb2189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.3.0/XR Device Simulator/XR Device Simulator.prefab using Guid(18ddb545287c546e19cc77dc9fbb2189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ea152d708beb64de7556b042de19b4') in 0.035096 seconds
+  Import took 0.041610 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
